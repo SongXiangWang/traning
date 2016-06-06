@@ -15,7 +15,7 @@ import java.net.URL;
  * Created by kaden on 2016/5/17.
  */
 public class APIUtility extends AsyncTask {
-    String apiPath = "http://210.60.95.13/MduAPIs/api/";
+    String apiPath = "http://Server/MduAPIs/api/";
     private int statusCode = 0;
     private OnGetResultListener onGetResultListener;
 
